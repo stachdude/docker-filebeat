@@ -8,7 +8,7 @@ Filebeat is a lightweight, open source shipper for log file data. As the next-ge
 -	[`1.3.1`, `1.3`, `1` (*Dockerfile*)](https://github.com/primait/docker-filebeat/blob/master/1.3/Dockerfile)
 -	[`5.0.1`, `5.0` (*Dockerfile*)](https://github.com/primait/docker-filebeat/blob/master/5.0/Dockerfile)
 -	[`5.1.2`, `5.1` (*Dockerfile*)](https://github.com/primait/docker-filebeat/blob/master/5.1/Dockerfile)
--	[`5.2.1`, `5.2`, `5`, `latest` (*Dockerfile*)](https://github.com/primait/docker-filebeat/blob/master/5.2/Dockerfile)
+-	[`5.2.2`, `5.2`, `5`, `latest` (*Dockerfile*)](https://github.com/primait/docker-filebeat/blob/master/5.2/Dockerfile)
 
 ## Build and update process
 
