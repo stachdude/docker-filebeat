@@ -3,7 +3,7 @@ FROM debian:jessie
 MAINTAINER Andrea Usuell <andrea.usuelli@prima.it>
 
 ENV FILEBEAT_VERSION=5.3.0 \
-    FILEBEAT_SHA1=694fe12e56ebf8e4c4b11b590cfb46c662e7a3c1
+    FILEBEAT_SHA1=c6f56d1a938889ec9f5db7caea266597f625fcc1
 
 RUN set -x && \
   apt-get update && \
